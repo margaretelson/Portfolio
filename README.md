@@ -23,8 +23,6 @@ The following features were used in creating this website:
   * git pull
 * GitHub
 
-![Image](./images/MEPortfolio.jpg)
-
 ## Installation
 
 Use VSCode to install.
