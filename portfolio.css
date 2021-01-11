@@ -1,0 +1,83 @@
+* {
+    background-color: transparent;
+}
+
+#github {
+    background-color: #e6ebeb;
+    margin-top: 0px;
+    padding: 50px;
+    height: 250px;
+    width: 800px;
+    float: left;
+}
+
+#github img {
+    max-width: 150px;
+    max-height: 150px;
+    display: block;
+    margin: auto;
+}
+
+#contact {
+    background-color: #e6ebeb;
+    margin-top: 25px;
+    padding: 50px;
+    height: 250px;
+    width: 800px;
+    float: left;
+    font-size: large;
+}
+
+.navbar-brand {
+    width: auto;
+}
+
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    background-color:transparent ;
+
+}
+
+.row-fluid {
+    width: auto;
+}
+
+.portfolio-img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.display-4 {
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.moveOver {
+    padding-left: 100px;
+    padding-right: 70px;
+    font-size: 1rem;
+}
+
+.moveOverh1 {
+    padding-left: 25px;
+    padding-top: auto;
+    padding-right: 75px;
+    font-size: 4rem;
+}
+
+.footer {
+text-align: center;
+width: auto;
+height: auto;
+padding-top: 5px;
+padding-bottom: 5px;
+background-color: rgb(230, 232, 235);
+}
