@@ -23,6 +23,13 @@ The following features were used in creating this website:
   * git pull
 * GitHub
 
+## Screenshots of Site
+
+![Images of Porftolio](./home.png)
+![Images of Porftolio](./contact.png)
+![Images of Porftolio](./portfolio.png)
+![Images of Porftolio](./resume.png)
+
 ## Installation
 
 Use VSCode to install.
