@@ -64,6 +64,22 @@
         background-color: rgb(230, 232, 235);
         float: left;
       }
+
+      #phone{
+        margin-bottom: 10px;
+        margin-top: 10px;
+        border-color: transparent;
+        background-color: rgb(230, 232, 235);
+        float: left;
+      }
+
+      #email{
+        margin-bottom: 10px;
+        margin-top: 10px;
+        border-color: transparent;
+        background-color: rgb(230, 232, 235);
+        float: left;
+      }
     
       .footer {
       position: fixed;
