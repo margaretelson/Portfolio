@@ -27,18 +27,18 @@
 }
 
 #BSEat{
-    width: 60vw;
+    width: 70vw;
     height: 30vh;
     display: inline-block;
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left: 320px;
+    margin-left: 400px;
     margin-right: 10px;
     position: flex;
 }
 
 #Weather{
-        width: 60vw;
+        width: 70vw;
         height: 30vh;
         display: inline-block;
         margin-top: 10px;
@@ -59,4 +59,36 @@
 #Boston{
     align-items: center;
     margin-left: 40px;
+}
+
+#teamProfID{
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 70vw;
+}
+
+#teamimg{
+    height: 25vh;
+}
+
+#expressNote{
+    width: 60vw;
+    height: 30vh;
+    display: inline-block;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    margin-right: 10px;
+    position: flex;
+}
+
+#yourEatsID{
+        width: 60vw;
+        height: 30vh;
+        display: inline-block;
+        margin-top: 90px;
+        margin-bottom: 50px;
+        margin-left: 0px;
+        margin-right: 10px;
+        position: absolute;
 }
