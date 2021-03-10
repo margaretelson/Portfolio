@@ -82,6 +82,10 @@
     position: flex;
 }
 
+#noteImg{
+    height: 20vh;
+}
+
 #yourEatsID{
         width: 60vw;
         height: 30vh;
