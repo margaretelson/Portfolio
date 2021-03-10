@@ -25,10 +25,10 @@ The following features were used in creating this website:
 
 ## Screenshots of Site
 
-![Images of Porftolio](./home.png)
-![Images of Porftolio](./contact.png)
-![Images of Porftolio](./portfolio.png)
-![Images of Porftolio](./resume.png)
+![Images of Porftolio](./public/home.png)
+![Images of Porftolio](./public//contact.png)
+![Images of Porftolio](./public//portfolio.png)
+![Images of Porftolio](./public//resume.png)
 
 ## Installation
 
