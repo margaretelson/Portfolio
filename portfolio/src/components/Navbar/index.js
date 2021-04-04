@@ -1,7 +1,11 @@
 import React from "react";
 import "./style.css";
+import { Link, useLocation } from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Navbar() {
+    const location = useLocation();
+
 return (
     <div className="container-fluid">
         <div class="row-fluid">  
@@ -17,19 +21,28 @@ return (
         
                         <div className="col-sm-4">
                             <li className="nav-item">
-                                <a className="nav-link" href="portfolio.html">Portfolio</a>
+                            <Link to="/portfolio"
+                            className={location.pathname === "/portfoio" ? "nav-link active" : "nav-link"}>
+                            Portfolio
+                            </Link>
                             </li>
                         </div>
         
                         <div className="col-sm-4">
                             <li classNme="nav-item">
-                                <a className="nav-link" href="contact.html">Contact</a>
+                            <Link to="/contact"
+                            className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+                            Contact
+                            </Link>
                             </li>
                         </div>
 
                         <div className="col-sm-4">
                         <li className="nav-item">
-                            <a className="nav-link" href="resume.html">Resume</a>
+                            <Link to="/resume"
+                            className={location.pathname === "/resume" ? "nav-link active" : "nav-link"}>
+                            Resume
+                            </Link>
                         </li>
                     </div>
                     </ul>
