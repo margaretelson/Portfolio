@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-function MargaretsPortfolio() {
+function Portfolio() {
   return (
   <div>
       <Navbar />
@@ -97,4 +97,4 @@ function MargaretsPortfolio() {
 )
 };
 
-export default MargaretsPortfolio;
+export default Portfolio;
