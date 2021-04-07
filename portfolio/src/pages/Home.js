@@ -2,7 +2,6 @@ import React from "react";
 import "./home.css";
 import Navbar from '../components/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 function Home() {
