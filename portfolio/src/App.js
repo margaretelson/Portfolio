@@ -11,7 +11,7 @@ import Resume from './pages/Resume';
 function App() {
   return (
     <div>
-      <Router basename={process.env.PUBLIC_URL+'/'}>
+      <Router basename={process.env.PUBLIC_URL}>
       <Route exact path="/" component={Home} />
       <Route exact path="/contact" component={Contact} />
       <Route exact path="/margaretsportfolio" component={MargaretsPortfolio} />
