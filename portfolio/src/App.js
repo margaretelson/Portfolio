@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
       <Router>
-      <Route exact path="/" component={Home} />
+      <Route exact path="/home" component={Home} />
       <Route exact path="/contact" component={Contact} />
       <Route exact path="/margaretsportfolio" component={MargaretsPortfolio} />
       <Route exact path="/resume" component={Resume} />
